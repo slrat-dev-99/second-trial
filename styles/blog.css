@@ -3,3 +3,19 @@
     padding: 20px;
     margin-bottom: 10px;
  }
+ .center-image {
+    display: block;
+    margin: 0 auto;
+  }
+  .center-text {
+    text-align: center;
+  }
+  .flex-container {
+    display: flex;
+    justify-content: flex-end; /* Moves the image to the right */
+  }
+  .right-aligned {
+    margin-left: 374px; /* Adds space between the text and the image */
+  }
+  
+  
