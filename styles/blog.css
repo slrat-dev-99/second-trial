@@ -15,7 +15,7 @@
     justify-content: flex-end; /* Moves the image to the right */
   }
   .right-aligned {
-    margin-left: 374px; /* Adds space between the text and the image */
+    margin-left: 40%; /* Adds space between the text and the image */
   }
   
   
